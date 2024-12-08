@@ -1,5 +1,3 @@
-"use client";
-
 import { Hono } from 'hono'
 import { renderer } from './renderer'
 import router from './routes';
